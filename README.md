@@ -1,4 +1,3 @@
-## The site is under development
 Hello guest! 
 
 <img src="PhotoSquare.png" alt="photo me" width="300" height="300">
