@@ -7,17 +7,17 @@ You reached a personal page of Olga Ivanova (me), born in Russia and currently l
 
 If you work in science, it is your only hobby because there is rarely any time for other hobbies. But in the spare moments I do love reading, exercising, travelling, swimming, walking, socializing, studying languagues, listening music, among other things - nothing special here. I wish I have more time for my hobbies and I find it difficult to cope with the idea that we have just one life and only 24 hours per day.  
 
-# Conferences visited: 
+# Conferences visited
 BioSB 2016 (Dutch Bioinformatics conference)
 ECCB 2016 (European Bioinformatics conference) 
 BioSB 2018
 
-# Presented: 
+# Presented
 Talk at BioSB2018: "A framework for exhaustive simulation of epistatic patterns using Petri net models"
 
-# Publications in preparion: 
+# Publications in preparion
 Study of epistatic patterns - 2 papers 
 
-# Projects I patricipate in (besides work): 
+# Projects I patricipate in (besides work)
 Metabolism regulation
 Asthma map 
