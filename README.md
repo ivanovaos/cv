@@ -8,18 +8,24 @@ If you work in science, it is your only hobby because there is rarely any time f
 
 ### Conferences visited
 BioSB 2016 (Dutch Bioinformatics conference) 
+
 ECCB 2016 (European Bioinformatics conference)
+
 BioSB 2018
+
 ECCB 2018
 
 ### Presented
 Talk at BioSB2018: "A framework for exhaustive simulation of epistatic patterns using Petri net models"
+
 Poster at ECCB2018: "Towards generating AsthmaMap Activity Flow"
 
 ### Publications in preparion
 Study of epistatic patterns - 2 papers, 1 submitted 
+
 Review on omics data in asthma field
 
 ### Projects I patricipate in (besides work)
 Metabolism regulation (http://metabolismregulation.org/)
+
 Asthma map (http://asthma-map.org/)
