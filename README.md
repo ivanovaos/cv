@@ -26,6 +26,6 @@ Study of epistatic patterns - 2 papers, 1 submitted
 Review on omics data in asthma field
 
 ### Projects I patricipate in (besides work)
-Metabolism regulation (http://metabolismregulation.org/)
+[Metabolism regulation](http://metabolismregulation.org/)
 
-Asthma map (http://asthma-map.org/)
+[Asthma map](http://asthma-map.org/)
