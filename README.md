@@ -6,9 +6,9 @@ You reached a personal page of Olga Ivanova (me), born in Russia and currently l
 
 Bioinformatics became a big part of my life, my profession and my passion. I worked as a bioinformatician/systems biologist at Academisch Medisch Centrum in Amsterdam and as a junior teacher at Vrije Universiteit (part-time) for 1.5 years. Then I moved to Germany to [saez lab](http://saezlab.org/) to get a PhD.
 
-The topics I find exciting are AI/ML for bioinformatics data, new tech such as genome editing (CRISPR/CAS9) and single-cell, ageing. My current research projects touch upon biological networks and tools for them, dynamic modeling of biological networks with logical models, omics integration. I don't have any publications yet, but I hope it will change quite soon. 
+The topics I find exciting are AI/ML for bioinformatics data, new tech such as genome editing (CRISPR/CAS9) and single-cell, ageing. My current research projects touch upon biological networks and tools for them, dynamic modeling of biological networks with logical models, omics integration.  
 
-If you work in science, it is your only hobby because there is rarely any time for other hobbies. But in the spare moments I do love reading, exercising, travelling, swimming, walking, socializing, studying languagues, listening to music, among other things - nothing special here. I wish I have more time for my hobbies and I find it difficult to cope with the idea that we have just one life and only 24 hours per day. Recently, I have got a diving license, so +1 hobby in my list. 
+If you work in science, it is your only hobby because there is rarely any time for other hobbies. But in the spare moments I do love reading, swimming and diving, playing tennis, travelling and hiking, listening to music, among other things. I wish I have more time for my hobbies and I find it difficult to cope with the idea that we have just one life and only 24 hours per day. 
 
 ### Publications
 Epistasis project, 2017-2018: 
