@@ -12,9 +12,9 @@ If you work in science, it is your only hobby because there is rarely any time f
 
 ### Publications
 Epistasis project, 2017-2018: 
-(The ability of transcription factors to differentially regulate gene expression is a crucial component of the mechanism underlying inversion, a frequently observed genetic interaction pattern)[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007061]
+[The ability of transcription factors to differentially regulate gene expression is a crucial component of the mechanism underlying inversion, a frequently observed genetic interaction pattern](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007061)
 
-Asthma-related work, 2018-2019: (What did we learn from multiple omics studies in asthma?)[https://www.ncbi.nlm.nih.gov/pubmed/31004501]
+Asthma-related work, 2018-2019: [What did we learn from multiple omics studies in asthma?](https://www.ncbi.nlm.nih.gov/pubmed/31004501)
 
 ### Papers submitted
 Epistasis project, 2017-2018: A framework for exhaustive modelling of genetic interaction patterns using Petri nets
