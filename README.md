@@ -25,7 +25,11 @@ Poster at ECCB2018: "Towards generating AsthmaMap Activity Flow"
 
 ### Organizing
 Amsterdam, 2018 [SbS@UvA Friday club](http://ias.uva.nl/research/simulation-based-science/simulation-based-science.html) (modelling community for UvA scientists)  
-Amsterdam, 2018-2019 [R-Ladies Amsterdam](https://www.meetup.com/rladies-amsterdam/).
+Amsterdam, 2018-2019 [R-Ladies Amsterdam](https://www.meetup.com/rladies-amsterdam/)
 
 ### Participating in 
 [Asthma map](http://asthma-map.org/)
+
+### Contacts
+olga.ivanova at bioquant.uni-heidelberg.de  
+[Linkedin](https://www.linkedin.com/in/olga-ivanova-b984492a/)
