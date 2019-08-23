@@ -1,8 +1,10 @@
-## Hello guest! 
+## >Hello, \#user! 
 
-<img src="DSC_7294.jpg" alt="photo me" width="300" height="358">
+<p align="center">
+<img src="DSC_7294.jpg" alt="photo of Olga" width="300" height="358" style="border-radius:50%">
+</p>
 
-You reached a personal page of Olga Ivanova (me), born in Russia and currently living in Heidelberg, Germany. I got my bachelor degree in computer science in Russia but after several years of working as a java developer I decided to change my carrier path quite drastically and left Russia pursuing a new path - Bioinformatics. I finished my master in bioinformatics and systems biology in Amsterdam at Vrije Universiteit. For pure CS layman it was not an easy path but I did everything in my power to make it work. I fall in love with Amsterdam and the Netherlands; I spent 6 long nice years eating poffertjes and herrings, hunting for sun during all seasons, fighting with wind and appreciating nice people and cosy places. This all resulted for me in Dutch nationality, and all freedom and values related to it.
+You reached a personal page of Olga Ivanova (me), born in Russia and currently living in Heidelberg, Germany. I got my bachelor degree in computer science in Russia but after several years of working as a java developer I decided to change my carrier path quite drastically and left Russia pursuing a new path - Bioinformatics. I finished my master in bioinformatics and systems biology in Amsterdam at Vrije Universiteit. For pure CS layman it was not an easy path but I did everything in my power to make it work. I fall in love with Amsterdam and the Netherlands; I spent 6 long nice years eating poffertjes and herrings, hunting for sun during all seasons, fighting with wind and appreciating nice people and cosy places. This all resulted for me in Dutch nationality, and all freedom and values related to it. 
 
 Bioinformatics became a big part of my life, my profession and my passion. I worked as a bioinformatician/systems biologist at Academisch Medisch Centrum in Amsterdam and as a junior teacher at Vrije Universiteit (part-time) for 1.5 years. Then I moved to Germany to [saez lab](http://saezlab.org/) to get a PhD.
 
